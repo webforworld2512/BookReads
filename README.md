@@ -1,6 +1,7 @@
 # BookReads
-A Book Reviewing Platform
-CSS Effects added:
+A Book Reviewing Platform.
+
+* CSS Effects added:
 
 1. A blur navigation bar
 2. Animated circle in transition to give a dynamic effect
